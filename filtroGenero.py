@@ -2,7 +2,7 @@ import time
 start=time.time()
 import xlsxwriter
 from openpyxl import load_workbook
-#Comentario para crear cambios en el documento
+#Comentario para crear cambios en el documento, agrego cambio
 
 print("\n|||----------------------  PROGRAMA DE FILTRADO DE REGISTROS CLÍNICOS  ------------------------|°|\n")
 print("El programa inició a las: (hh:mm:ss):",time.strftime("%H:%M:%S"),"\n")
